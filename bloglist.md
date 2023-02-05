@@ -34,7 +34,7 @@
 |Hania|Batt|https://haniabatt.github.io/Digital-Health/||||
 |Abraham Tamba|Borbor jr|https://github.com/Braham2u/research-paper.git||||
 |Maja|Czekała|https://Maja03.github.io|How does Digital Technology affect Sports|Digital Health in Sports|athletes, physiotherapists, people working in the sport field, people intrested in sport|
-|Bilge|Deliceo|https://github.com/bilgedeliceo/bobs.git||||
+|Bilge|Deliceo| https://bilgedeliceo.github.io/HakunaMatata/ |Usage and Effectiveness of Mental Health Apps| Consumers, Mental Health Professionals|
 |Obo Effiong|Ekanem|||||
 |Noura|Eltahawi|https://nou-ra1981.github.io/Blog-Post/||||
 |B M Muntasir|Fahim|https://muntasirfahim.github.io/|mHealth|The Role of mHealth in Improving Healthcare Outcomes|General Public, Health Professionals and associates, Users of Social Media, Software Engineers|
